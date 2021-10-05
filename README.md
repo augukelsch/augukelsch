@@ -5,7 +5,7 @@
   <tr><td>👋</td><td> Hi visiter!</td></tr>
   <tr><td>&#128209;</td><td>Mechanical Engineer in Progress.</td></tr>
       <tr><td>&#128668;</td><td>John Deere Intern!</td></tr>
-          <tr><td>&#1277608;</td><td>Technology Lover.</td></tr>
+          <tr><td>&#128187;</td><td>Technology Lover.</td></tr>
   </table>
 <h2>
 </head>
