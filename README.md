@@ -3,10 +3,9 @@
 <h2>
   <table>
   <tr><td>👋</td><td> Hi visiter!</td></tr>
-  <tr><td>&#128209;</td><td>Mechanical Engineer</td></tr>
       <tr><td>&#128187;</td><td>SAP Employee</td></tr>
           <tr><td>&#128187;</td><td>Technology / ML / AI / Analytics</td></tr>
-            <tr><td>&#128187;</td><td>Part time Developer</td></tr>
+            <tr><td>&#128187;</td><td>Developer</td></tr>
   </table>
 <h2>
 </head>
